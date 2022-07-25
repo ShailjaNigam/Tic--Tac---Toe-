@@ -2,7 +2,7 @@ The program, first welcomes the user to a game of tic tac toe.
 	After that it asks to the user to select the match that user wants to play.
 	If user Enter 1 then player vs player match starts if user Enters 2 then Player vs Computer match starts.
 
-	                                                                             Player vs Player
+	                Player vs Player
 
 	Player 1, takes the 1st turn and it is assigned with “X”.
 	Player 2, takes the 2nd turn and it is assigned with “O”.
@@ -12,7 +12,7 @@ The program, first welcomes the user to a game of tic tac toe.
 	The game continues in the above- mentioned order, until the game is drawn or either of the player wins the match.
 	The match is drawn when all the indexes of the gameboard is filled and none of the player satisfied the conditions of winning.
 
-	                                                                          Player vs Computer 
+	                 Player vs Computer 
 
 	In this match, Player takes the 1st turn and after that computer takes the turn.
 	Player assigned with “X”.
